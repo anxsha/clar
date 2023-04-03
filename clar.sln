@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clar.FunctionalTests", "clar\tests\clar.FunctionalTests\clar.FunctionalTests.csproj", "{F2CF429E-A783-4729-A658-554C1376A1B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clar.IntegrationTests", "clar\tests\clar.IntegrationTests\clar.IntegrationTests.csproj", "{454A3DFF-CD12-4198-B62E-7EF81B415495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clar.UnitTests", "clar\tests\clar.UnitTests\clar.UnitTests.csproj", "{AF0FC018-F2AF-4A36-A6DD-E456049F27F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clar.SharedKernel", "clar\src\clar.SharedKernel\clar.SharedKernel.csproj", "{C8FA4629-7D3B-49F1-BFC0-4A7788A4798C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clar.Infrastructure", "clar\src\clar.Infrastructure\clar.Infrastructure.csproj", "{C75E35CB-7782-4CC9-8DA4-043FB30A2A27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clar.Core", "clar\src\clar.Core\clar.Core.csproj", "{3FEA38B8-E034-4DE0-8C56-AF24648527D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clar.Web", "clar\src\clar.Web\clar.Web.csproj", "{C92770D6-CF1C-4496-A9E8-4E169027808E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2CF429E-A783-4729-A658-554C1376A1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CF429E-A783-4729-A658-554C1376A1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CF429E-A783-4729-A658-554C1376A1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CF429E-A783-4729-A658-554C1376A1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454A3DFF-CD12-4198-B62E-7EF81B415495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454A3DFF-CD12-4198-B62E-7EF81B415495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454A3DFF-CD12-4198-B62E-7EF81B415495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454A3DFF-CD12-4198-B62E-7EF81B415495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0FC018-F2AF-4A36-A6DD-E456049F27F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0FC018-F2AF-4A36-A6DD-E456049F27F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0FC018-F2AF-4A36-A6DD-E456049F27F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0FC018-F2AF-4A36-A6DD-E456049F27F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8FA4629-7D3B-49F1-BFC0-4A7788A4798C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FA4629-7D3B-49F1-BFC0-4A7788A4798C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FA4629-7D3B-49F1-BFC0-4A7788A4798C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FA4629-7D3B-49F1-BFC0-4A7788A4798C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75E35CB-7782-4CC9-8DA4-043FB30A2A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75E35CB-7782-4CC9-8DA4-043FB30A2A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75E35CB-7782-4CC9-8DA4-043FB30A2A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75E35CB-7782-4CC9-8DA4-043FB30A2A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FEA38B8-E034-4DE0-8C56-AF24648527D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEA38B8-E034-4DE0-8C56-AF24648527D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEA38B8-E034-4DE0-8C56-AF24648527D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FEA38B8-E034-4DE0-8C56-AF24648527D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C92770D6-CF1C-4496-A9E8-4E169027808E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92770D6-CF1C-4496-A9E8-4E169027808E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92770D6-CF1C-4496-A9E8-4E169027808E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92770D6-CF1C-4496-A9E8-4E169027808E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
